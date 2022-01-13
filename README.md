@@ -1,5 +1,10 @@
 # Testapp
 
+This is a Simple Angular project to simulate Tic-Tac-Toe game using Typescript, SCSS, Bootstrap and HTML. This project is hosted on heroku, check out the link below.
+
+*Link:* https://tic-tac-toe-bjdinesh.herokuapp.com/ 
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
