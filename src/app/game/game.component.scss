@@ -1,0 +1,37 @@
+.main {
+    .gameboard {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 40px;;
+
+        .player-one {
+            p {
+                color: yellow;
+            }
+        }
+
+        .player-two {
+            p {
+                color: turquoise;
+            }
+        }
+
+        .gamefield {
+            max-width: 300px;
+            .subfield {
+                cursor: pointer;
+                height: 100px;
+                width: 100px;
+                border: 1px solid white;
+                &.player-one {
+                    background: yellow;
+                }
+        
+                &.player-two {
+                    background: turquoise;
+                }
+            }
+        }
+    }
+}
