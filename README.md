@@ -1,4 +1,4 @@
-# Testapp
+# Tic-Tac-Toe game using Angular
 
 This is a Simple Angular project to simulate Tic-Tac-Toe game using Typescript, SCSS, Bootstrap and HTML. This project is hosted on heroku, check out the link below.
 Considering developing this into a Progressive Web application.
